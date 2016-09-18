@@ -11,9 +11,9 @@
 #include<OctoWS2811.h>
 #include<FastLED.h>
 
-#define NUM_LEDS_PER_STRIP 150
+#define NUM_LEDS_PER_STRIP 60
 #define NUM_STRIPS 2
-#define NUM_LEDS  300
+#define NUM_LEDS  120
 //#define DATA_PIN           3
 //#define CHIPSET            NEOPIXEL  // make sure you enter the correct chipset
 //#define COLOR_ORDER        GRB       // and RBG order
