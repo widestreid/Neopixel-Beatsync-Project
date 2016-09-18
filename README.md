@@ -8,3 +8,5 @@ http://www.instructables.com/id/How-to-Make-LEDs-Flash-to-Music-with-an-Arduino/
 also has great information on how to create a very simply LED controller with timing info from processing. It is my understanding that this has to be done one .mp3 file at a time. 
 
 BPM and delay could be scraped from an ID3 tag this would be a better way to time a series of mp3 songs. 
+
+Mary Mary quite contrary
